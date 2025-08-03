@@ -27,6 +27,9 @@ enum {
     STAGE5
 };
 
+
+// testing update
+
 const float FUEL_ROTATE =   0.20;
 const float FUEL_THRUST =   0.10;
 const float FUEL_CAPACITY  = 2000.0;
