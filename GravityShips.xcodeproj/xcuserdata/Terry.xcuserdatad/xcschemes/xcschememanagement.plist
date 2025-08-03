@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GravityShips.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DEDFF3641C67A6800008B4CF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E263994C190D148400B6251A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2639985190D149C00B6251A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E26399B6190D14B200B6251A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E26399E7190D14C000B6251A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2639A18190D14D100B6251A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2639A49190D14E600B6251A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2639A7A190D14F500B6251A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E2639AAB190D150700B6251A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
